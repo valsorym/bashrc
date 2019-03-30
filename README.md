@@ -9,8 +9,8 @@ Quick Start
 Installation of configurations:
 
 ```
-$ git clone git://github.com/valsorym/bash-configs /tmp/bash-configs
-$ cd /tmp/bash-configs
+$ git clone git://github.com/valsorym/bashrc /tmp/bashrc
+$ cd /tmp/bashrc
 $ make install
 ```
 

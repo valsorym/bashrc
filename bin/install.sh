@@ -5,4 +5,3 @@ cp -rf ./src/ ~/
 
 echo "Done!"
 exit 0
-
